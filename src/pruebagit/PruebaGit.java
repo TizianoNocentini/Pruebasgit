@@ -10,7 +10,9 @@ public class PruebaGit {
 
 
     public static void main(String[] args) {
-        System.out.println("Hola a todos");
+        System.out.println("Hola chicos y chicas");
+        System.out.println("Estoy cambiando");
+        System.out.println("Hoy es jueves");
     }
     
 }
